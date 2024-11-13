@@ -139,4 +139,5 @@ Before setting up the project, ensure you have the following installed:
 3. **Access the Application:**
 
    Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the Real-time QASM Visualiser.
+   
 
